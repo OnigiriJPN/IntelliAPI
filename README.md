@@ -11,7 +11,7 @@ Intelli1.1.2 / Intelli1.1.3：標準コード補完用モデル
 
 IntelliChat：会話・説明補助用の軽量モデル
 
-英語(English)
+# 英語(English)
 
 This project is an AI completion server that provides real-time completion for HTA and HTML/JS code.
 It is implemented in Python and can be called from clients such as C# via HTTP using FastAPI.
